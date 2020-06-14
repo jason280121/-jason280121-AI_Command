@@ -3,3 +3,26 @@
 
 更新pip:
 python -m pip install --upgrade pip
+
+顯示Aaconda 已安裝模組的命令為:
+#pip list
+
+更新模組命令進行更新:
+pip install --upgrade numpy
+
+未安裝模組:
+pip install numpy
+
+移除模組:
+pip uninstall numpy
+
+
+安裝keras:
+ pip install keras
+測試: 
+python
+import keras
+
+查詢版本:
+python3 --version
+pip3 --version
