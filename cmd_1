@@ -26,3 +26,14 @@ import keras
 查詢版本:
 python3 --version
 pip3 --version
+
+TensorFlow: pip install tensorflow
+NumPy: pip install numpy
+
+使用python -m pip list列出已下載的套件
+
+
+
+
+
+
